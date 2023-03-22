@@ -1,0 +1,17 @@
+//coments
+//manuel carrion
+
+//what is code for?
+//this is the code for the Hello World program.
+
+//this is a test/;
+
+#include <iostream> //libreria de input stream, directiva de pre- procesamiento
+
+using namespace std; //crea un espacio para guardar los identificadores en memoria
+
+int main() { // funcion principaldonde empieza la ejecucion
+
+cout<<"Hello World">>; //imprime al monitor}
+
+return 0;
